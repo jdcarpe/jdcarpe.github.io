@@ -1,0 +1,109 @@
+body {
+    padding-top: 50px;
+}
+
+.navbar-brand img {
+	height:21px;
+}
+
+.pad-top {
+    margin-top:2em;
+}
+
+.alert {
+    margin-bottom:0;
+}
+
+.center-block {
+    float:none;
+}
+.center-text {
+	text-align:center;
+}
+#price {
+	text-align:right;
+    font-size: 240%;
+    margin-top: .05em;
+}
+#price-details {
+	text-align:right;
+	font-size:85%;
+	font-style:italic;
+}
+
+#cart_items,
+#shipping_items {
+	font-size:80%;
+	font-style: italic;
+}
+#cart_items .well {
+	position:relative;
+	margin-bottom:5px;
+    padding-right: 60px;
+}
+#shipping_items .well {
+	position:relative;
+	margin-bottom:5px;
+    padding-right: 65px;
+}
+.well.full {
+	padding-right: 9px !important;
+}
+.shipping_status {
+	text-align:right;
+	margin-top:10px;
+}
+.shipping_cost {
+	display: inline-block;
+    margin-right: 2px;
+}
+#cart_actions {
+	text-align:right;
+}
+#item_price {
+	display:inline-block;
+	margin-right:10px;
+    position: relative;
+    top: 2px;
+	font-size: 120%;
+}
+#cart_items .well .cart_item_actions {
+	position: absolute;
+    top: 5px;
+    right: 7px;
+}
+#shipping_items .well .shipping_item_actions {
+	position: absolute;
+    top: 5px;
+    right: 7px;
+}
+#cart_items .well .cart_item_actions .form-control{
+	width: 18px;
+    padding: 1px 4px;
+    height: auto;
+    display: inline-block;
+    margin-right: 3px;
+}
+#cart_items .well .cart_item_actions .glyphicon {
+	position:relative;
+	top:3px;
+	font-size:150%;
+	cursor:pointer;
+}
+#cart_item_template,
+#shipping_item_template {
+	display:none;
+}
+
+footer {
+    margin: 3em 0;
+}
+
+/*
+     FILE ARCHIVED ON 06:21:29 Nov 07, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:41:12 Apr 10, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
